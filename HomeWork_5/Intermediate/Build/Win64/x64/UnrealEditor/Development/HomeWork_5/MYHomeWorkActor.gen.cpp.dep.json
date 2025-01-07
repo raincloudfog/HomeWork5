@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\qordl\\documents\\unreal projects\\homework_5\\intermediate\\build\\win64\\unrealeditor\\inc\\homework_5\\uht\\myhomeworkactor.gen.cpp",
+        "Source": "c:\\users\\qordl\\documents\\github\\homework5\\homework_5\\intermediate\\build\\win64\\unrealeditor\\inc\\homework_5\\uht\\myhomeworkactor.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\qordl\\documents\\unreal projects\\homework_5\\intermediate\\build\\win64\\x64\\homework_5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\qordl\\documents\\github\\homework5\\homework_5\\intermediate\\build\\win64\\x64\\homework_5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\qordl\\documents\\unreal projects\\homework_5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\homework_5\\definitions.homework_5.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\homework_5\\source\\homework_5\\public\\myhomeworkactor.h",
-            "c:\\users\\qordl\\documents\\unreal projects\\homework_5\\intermediate\\build\\win64\\unrealeditor\\inc\\homework_5\\uht\\myhomeworkactor.generated.h"
+            "c:\\users\\qordl\\documents\\github\\homework5\\homework_5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\homework_5\\definitions.homework_5.h",
+            "c:\\users\\qordl\\documents\\github\\homework5\\homework_5\\source\\homework_5\\public\\myhomeworkactor.h",
+            "c:\\users\\qordl\\documents\\github\\homework5\\homework_5\\intermediate\\build\\win64\\unrealeditor\\inc\\homework_5\\uht\\myhomeworkactor.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

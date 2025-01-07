@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HomeWork_5ModuleRules
-build_property.ProjectDir = C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\BuildRulesProjects\HomeWork_5ModuleRules\
+build_property.ProjectDir = C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\BuildRulesProjects\HomeWork_5ModuleRules\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

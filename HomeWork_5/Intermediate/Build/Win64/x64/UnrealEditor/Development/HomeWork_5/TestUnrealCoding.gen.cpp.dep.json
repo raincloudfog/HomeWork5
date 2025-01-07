@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\qordl\\documents\\github\\homework5\\homework_5\\intermediate\\build\\win64\\unrealeditor\\inc\\homework_5\\uht\\testunrealcoding.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\qordl\\documents\\github\\homework5\\homework_5\\intermediate\\build\\win64\\x64\\homework_5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\qordl\\documents\\github\\homework5\\homework_5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\homework_5\\definitions.homework_5.h",
+            "c:\\users\\qordl\\documents\\github\\homework5\\homework_5\\source\\homework_5\\public\\testunrealcoding.h",
+            "c:\\users\\qordl\\documents\\github\\homework5\\homework_5\\intermediate\\build\\win64\\unrealeditor\\inc\\homework_5\\uht\\testunrealcoding.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\qordl\\Documents\\Unreal Projects\\HomeWork_5\\Source\\HomeWork_5\\HomeWork_5.Build.cs",
-		"C:\\Users\\qordl\\Documents\\Unreal Projects\\HomeWork_5\\Source\\HomeWork_5.Target.cs",
-		"C:\\Users\\qordl\\Documents\\Unreal Projects\\HomeWork_5\\Source\\HomeWork_5Editor.Target.cs"
+		"C:\\Users\\qordl\\Documents\\GitHub\\HomeWork5\\HomeWork_5\\Source\\HomeWork_5\\HomeWork_5.Build.cs",
+		"C:\\Users\\qordl\\Documents\\GitHub\\HomeWork5\\HomeWork_5\\Source\\HomeWork_5.Target.cs",
+		"C:\\Users\\qordl\\Documents\\GitHub\\HomeWork5\\HomeWork_5\\Source\\HomeWork_5Editor.Target.cs"
 	],
 	"EngineVersion": "5.5.1"
 }

@@ -1,12 +1,12 @@
-"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Source\HomeWork_5\Private\MYHomeWorkActor.cpp"
-/FI"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\Definitions.HomeWork_5.h"
-/Yu"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\MYHomeWorkActor.cpp.obj"
-/experimental:log "C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\MYHomeWorkActor.cpp.sarif"
-/sourceDependencies "C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\MYHomeWorkActor.cpp.dep.json"
-@"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\HomeWork_5.Shared.rsp"
+"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Source\HomeWork_5\Private\MYHomeWorkActor.cpp"
+/FI"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\Definitions.HomeWork_5.h"
+/Yu"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\MYHomeWorkActor.cpp.obj"
+/experimental:log "C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\MYHomeWorkActor.cpp.sarif"
+/sourceDependencies "C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\MYHomeWorkActor.cpp.dep.json"
+@"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\HomeWork_5.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

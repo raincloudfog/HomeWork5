@@ -35,8 +35,10 @@ void AMYHomeWorkActor::Tick(float DeltaTime)
 
 }
 
-void AMYHomeWorkActor::Move() {
+FVector AMYHomeWorkActor::Move() {
 	
+	
+
 	FVector CurrentLocation = GetActorLocation(); // GetActorLocation : 해당액터의위치
 
 	SetActorLocation(CurrentLocation + FVector(step(), step(), 0)); // SetActorLocation : 해당 위치로 이동
@@ -45,14 +47,21 @@ void AMYHomeWorkActor::Move() {
 	UE_LOG(LogConfig, Warning, TEXT("X : %.2f, Y %.2f로 이동"), CurrentLocation.X, CurrentLocation.Y);
 
 	//AddActorWorldOffset(FVector(1, 1, 1)); // AddActorWorldOffset : 액터를 현재 위치에서 주어진벡터만큼움직임
+
+	//이동 전 위치 값전달
+	return CurrentLocation;
+
 }
 
 
 void AMYHomeWorkActor::MoveRepeat() {
-
 	if (count < 10)
 	{
-		Move();
+		FVector pastVector = Move();
+		UE_LOG(LogConfig, Warning, TEXT("distance:%.2f"), distance(pastVector, GetActorLocation()));
+
+			//UE_LOG(LogConfig, Warning, TEXT("이벤트 발생 현재 위치와 전의 위치 비교: %.2f"), distance(pastVector, GetActorLocation()));
+		
 		count++;
 	}
 	else {
@@ -73,3 +82,26 @@ int32_t AMYHomeWorkActor::step()
 
 	return 0;
 }
+
+float AMYHomeWorkActor::distance(FVector first, FVector second) {
+
+
+	float _distanceX = FMath::Pow((first.X - second.X), 2);
+	float _distanceY = FMath::Pow((first.Y - second.Y), 2);
+	float _distance = FMath::Sqrt(_distanceX + _distanceY);
+
+	return _distance;
+
+}
+
+
+//int32 AMYHomeWorkActor::CreateEvent() {
+//	float probabilty = 50;
+//
+//	if (FMath::FRand() * 100.0f > probabilty)
+//	{
+//		return 1;
+//	}
+//
+//	return 0;
+//}

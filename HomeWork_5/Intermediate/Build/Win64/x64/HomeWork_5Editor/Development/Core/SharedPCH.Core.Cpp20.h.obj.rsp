@@ -1,4 +1,4 @@
-"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\Core\SharedPCH.Core.Cpp20.cpp"
+"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\Core\SharedPCH.Core.Cpp20.cpp"
 /I "."
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
@@ -11,10 +11,10 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
 /Yc"SharedPCH.Core.Cpp20.h"
-/Fp"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\Core\SharedPCH.Core.Cpp20.h.pch"
-/Fo"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\Core\SharedPCH.Core.Cpp20.h.obj"
-/experimental:log "C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\Core\SharedPCH.Core.Cpp20.h.sarif"
-/sourceDependencies "C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\Core\SharedPCH.Core.Cpp20.h.dep.json"
+/Fp"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\Core\SharedPCH.Core.Cpp20.h.pch"
+/Fo"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\Core\SharedPCH.Core.Cpp20.h.obj"
+/experimental:log "C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\Core\SharedPCH.Core.Cpp20.h.sarif"
+/sourceDependencies "C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\Core\SharedPCH.Core.Cpp20.h.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

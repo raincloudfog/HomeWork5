@@ -23,7 +23,7 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	void Move();
+	FVector Move();
 	void MoveRepeat();
 
 	int32_t step();
@@ -36,7 +36,9 @@ public:
 	FTimerHandle MovementTimerHandle; // 타이머 핸들 (타이머를 담을 수 있는 변수)
 
 	
+	//스탭과 같음.
+	//int32 CreateEvent();
 
-
+	float distance(FVector first, FVector second);
 
 };

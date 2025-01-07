@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define HOMEWORK_5_MYHomeWorkActor_generated_h
 
-#define FID_Users_qordl_Documents_Unreal_Projects_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Users_qordl_Documents_GitHub_HomeWork5_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMYHomeWorkActor(); \
 	friend struct Z_Construct_UClass_AMYHomeWorkActor_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(AMYHomeWorkActor)
 
 
-#define FID_Users_qordl_Documents_Unreal_Projects_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Users_qordl_Documents_GitHub_HomeWork5_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AMYHomeWorkActor(AMYHomeWorkActor&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~AMYHomeWorkActor();
 
 
-#define FID_Users_qordl_Documents_Unreal_Projects_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h_9_PROLOG
-#define FID_Users_qordl_Documents_Unreal_Projects_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h_12_GENERATED_BODY \
+#define FID_Users_qordl_Documents_GitHub_HomeWork5_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h_9_PROLOG
+#define FID_Users_qordl_Documents_GitHub_HomeWork5_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_qordl_Documents_Unreal_Projects_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Users_qordl_Documents_Unreal_Projects_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Users_qordl_Documents_GitHub_HomeWork5_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Users_qordl_Documents_GitHub_HomeWork5_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> HOMEWORK_5_API UClass* StaticClass<class AMYHomeWorkActor>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_qordl_Documents_Unreal_Projects_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h
+#define CURRENT_FILE_ID FID_Users_qordl_Documents_GitHub_HomeWork5_HomeWork_5_Source_HomeWork_5_Public_MYHomeWorkActor_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

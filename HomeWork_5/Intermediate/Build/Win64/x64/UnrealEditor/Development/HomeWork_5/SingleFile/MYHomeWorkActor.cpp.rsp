@@ -1,14 +1,14 @@
-"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Source\HomeWork_5\Private\MYHomeWorkActor.cpp"
+"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Source\HomeWork_5\Private\MYHomeWorkActor.cpp"
 /external:W0
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\Definitions.HomeWork_5.h"
-/Fo"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\SingleFile\MYHomeWorkActor.cpp.obj"
-/sourceDependencies "C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\SingleFile\MYHomeWorkActor.cpp.dep.json"
-@"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\HomeWork_5.Shared.rsp"
+/FI"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\Definitions.HomeWork_5.h"
+/Fo"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\SingleFile\MYHomeWorkActor.cpp.obj"
+/sourceDependencies "C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\SingleFile\MYHomeWorkActor.cpp.dep.json"
+@"C:\Users\qordl\Documents\GitHub\HomeWork5\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\HomeWork_5.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

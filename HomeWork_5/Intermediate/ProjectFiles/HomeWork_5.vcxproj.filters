@@ -45,10 +45,16 @@
     <ClCompile Include="..\..\Source\HomeWork_5\Private\MYHomeWorkActor.cpp">
       <Filter>Source\HomeWork_5\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\HomeWork_5\Private\TestUnrealCoding.cpp">
+      <Filter>Source\HomeWork_5\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\HomeWork_5\Public">
       <UniqueIdentifier>{14ACD588-BAFA-37E2-B226-1D5C6F0760C3}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\HomeWork_5\Public\MYHomeWorkActor.h">
+      <Filter>Source\HomeWork_5\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HomeWork_5\Public\TestUnrealCoding.h">
       <Filter>Source\HomeWork_5\Public</Filter>
     </ClCompile>
   </ItemGroup>
