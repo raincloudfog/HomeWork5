@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HomeWork_5-1403.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\HomeWork_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\HomeWork_5.init.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\MYHomeWorkActor.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\HomeWork_5.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\MYHomeWorkActor.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\PerModuleInline.gen.cpp.obj"
+"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\Default.rc2.res"
+/OUT:"C:\Users\qordl\Documents\Unreal Projects\HomeWork_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\HomeWork_5\UnrealEditor-HomeWork_5-1403.lib"

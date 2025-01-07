@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HomeWork_5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HomeWork_5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HomeWork_5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HomeWork_5">
+      <UniqueIdentifier>{D5B42E0C-655D-35DC-A9DD-4D94F267D18B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HomeWork_5\HomeWork_5.Build.cs">
+      <Filter>Source\HomeWork_5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HomeWork_5\HomeWork_5.cpp">
+      <Filter>Source\HomeWork_5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HomeWork_5\HomeWork_5.h">
+      <Filter>Source\HomeWork_5</Filter>
+    </ClCompile>
+    <Filter Include="Source\HomeWork_5\Private">
+      <UniqueIdentifier>{0E9D9BE4-BF25-30BB-95E5-D8DF400E9869}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HomeWork_5\Private\MYHomeWorkActor.cpp">
+      <Filter>Source\HomeWork_5\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\HomeWork_5\Public">
+      <UniqueIdentifier>{14ACD588-BAFA-37E2-B226-1D5C6F0760C3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HomeWork_5\Public\MYHomeWorkActor.h">
+      <Filter>Source\HomeWork_5\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

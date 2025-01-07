@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\qordl\\documents\\unreal projects\\homework_5\\source\\homework_5\\homework_5.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\qordl\\documents\\unreal projects\\homework_5\\intermediate\\build\\win64\\x64\\homework_5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\qordl\\documents\\unreal projects\\homework_5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\homework_5\\definitions.homework_5.h",
+            "c:\\users\\qordl\\documents\\unreal projects\\homework_5\\source\\homework_5\\homework_5.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
